@@ -1,5 +1,9 @@
 # PlotWithRLanguage
-Plot Geometric Distribution
-This exerise implenment the geometric distribution in two ways. 
+This mini project implenment the several statistical distribution and plot them. 
 
-First, use function applied by R language and Python. Second, build the geometric distrivution from scratch.
+First, apply the functions exsisted in R language and Python to plot the Normal Distribution and its first and second derivatives.
+
+Second, use two ways to build the geometric distrivution. Build it from scratch and call the function from library. Also plot them.
+
+Third, implenment the T-test and Sign Test. Of course, find the rejection of H0 and plot it.
+ 
